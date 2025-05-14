@@ -40,6 +40,7 @@
           <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=SEIDY-KANTE&repo=ai-powered-resume-scanning-system&theme=github_dark" />
         </a>
         <br/>
+        <a href="https://ai-resume-scanning-system.streamlit.app/"><strong>🔗 Live Demo</strong></a>
       </td>
     </tr>
     <tr>
